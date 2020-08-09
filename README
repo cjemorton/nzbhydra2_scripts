@@ -1,0 +1,6 @@
+# Set env variables.
+# in ~/.cshrc
+
+
+setenv POTOKEN01 [PUSHOVER APPLICATION TOKEN]
+setenv POTOKEN [PUSHOVER USER TOKEN]
